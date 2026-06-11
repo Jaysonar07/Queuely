@@ -1,0 +1,6 @@
+{
+  "name": "Clinic Queue Manager",
+  "description": "Interactive handoff specification and real-time reference prototype for a dual-screen clinic queue management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
